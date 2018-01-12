@@ -20,8 +20,4 @@ public class FbTest {
 		assertEquals("Buzz", f.GoAll(25).get(4));
 		assertEquals("FizzBuzz", f.GoAll(25).get(14));
 	}
-	
-	
-
-
 }
